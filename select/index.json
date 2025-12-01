@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ミュウ / Rain Drops - 三枝明那(cover)",
+  "base_artist": "三枝明那",
+  "createdAt": "2025-12-01T20:36:32.049314Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミュウ",
+      "artist": "Rain Drops",
+      "has_synced": true,
+      "path": "select/01_ミュウ_Rain_Drops.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミュウ (Instrumental)",
+      "artist": "Rain Drops",
+      "has_synced": true,
+      "path": "select/02_ミュウ_(Instrumental)_Rain_Drops.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミュウ",
+      "artist": "Rain Drops",
+      "has_synced": true,
+      "path": "select/03_ミュウ_Rain_Drops.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミュウ",
+      "artist": "ケラケラ",
+      "has_synced": false,
+      "path": "select/pl_01_ミュウ_ケラケラ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ミュウ",
+      "artist": "ケラケラ",
+      "has_synced": false,
+      "path": "select/pl_02_ミュウ_ケラケラ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "みゅう",
+      "artist": "ケラケラ",
+      "has_synced": false,
+      "path": "select/pl_03_みゅう_ケラケラ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ミュウ",
+      "artist": "ケラケラ",
+      "has_synced": false,
+      "path": "select/pl_04_ミュウ_ケラケラ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "MIYOU",
+      "artist": "ケラケラ",
+      "has_synced": false,
+      "path": "select/pl_05_MIYOU_ケラケラ.txt"
+    }
+  ]
+}
